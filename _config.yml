@@ -4,7 +4,7 @@ collections:
 
 
 url: mehrdadnd.github.io
-baseurl: /
+baseurl: /doc
 
 defaults:
   - scope:
