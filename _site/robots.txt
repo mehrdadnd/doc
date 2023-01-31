@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: mehrdadnd.github.io/doc/sitemap.xml
